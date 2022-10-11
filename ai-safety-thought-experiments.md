@@ -32,7 +32,7 @@ A system under experiment is only interesting if it does something: if the syste
 
 Similar to the orthogonality thesis, I am assuming the existence of a scalar "intelligence score" that is proportional to the complexity of observation, analysis, and planning possible by a super-intelligent agent.
 Agents having equal intelligence scores mean 50% of reaching their goals and winning in an adversarial zero-sum match-up.
-This definition of "intelligence score" ensures that adversaries will start of "on the back foot," so to speak: both agents will start in a position of relative weakness and will need to act accordingly.
+This definition of "intelligence score" ensures that adversaries will start "on the back foot," so to speak: both agents will start in a position of relative weakness and will need to act accordingly.
 
 ## Thought Experiments: Execution
 ### Round 1: Safety Bot v. Rogue
